@@ -37,7 +37,6 @@ p {
     line-height: 1.6;
 }
 
-/* Media query for smaller screens */
 @media (max-width: 768px) {
     section {
         padding: 10px;
